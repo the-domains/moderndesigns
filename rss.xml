@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ModernDesigns]]></title>
+        <description><![CDATA[ModernDesigns]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 04 Aug 2016 04:05:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/40bf084c-7e19-4f14-81e5-d971a29eb596.jpg" alt="Silver Screen Printing Press From Ryonet">]]></description>
+            <link>undefinedwe-purchased-a-new-silver-screen-printing-press-in-2012-and/index.html</link>
+            <guid isPermaLink="false">ce5da8ef-5761-4765-8d8c-d4f9eefe9054</guid>
+            <pubDate>Thu, 04 Aug 2016 04:05:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
