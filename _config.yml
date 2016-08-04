@@ -1,14 +1,14 @@
-layout_spectrum: 0.20840983395464718
-typography_spectrum: 0.5375211553182453
+layout_spectrum: 0.09511178499087691
+typography_spectrum: 0.8141408755909652
 color:
-  brandStrength: 0.2923844731412828
-  lightness: 0.6449181942734867
-  saturation: 0.8567677955143154
-  rhythmicContrast: 0.6638362626545131
+  brandStrength: 0.8385643099900335
+  lightness: 0.4970482657663524
+  saturation: 0.8582038911990821
+  rhythmicContrast: 0.4840615934226662
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
 name: ModernDesigns
