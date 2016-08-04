@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-08-04T04:10:17.720Z'
+datePublished: '2016-08-04T04:34:34.611Z'
+sourcePath: >-
+  _posts/2016-08-04-programming-is-amazing-or-when-you-need-it-or-websites-will-so.md
 author: []
 via: {}
-dateModified: '2016-08-04T04:10:15.331Z'
-title: ''
+dateModified: '2016-08-04T04:34:33.860Z'
+title: Computer Programming
 publisher: {}
 description: >-
   Programming is amazing | When you need it | Websites will soon Program
   themselves!
 starred: false
-sourcePath: >-
-  _posts/2016-08-04-programming-is-amazing-or-when-you-need-it-or-websites-will-so.md
 inFeed: true
 hasPage: true
 inNav: false
