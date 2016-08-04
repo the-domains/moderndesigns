@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-04T04:55:35.578Z'
+datePublished: '2016-08-04T04:55:37.988Z'
 sourcePath: _posts/2016-08-04-our-new-modern-designs-t-shirt-has-finally-been-printed.md
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-04T04:55:34.936Z'
+dateModified: '2016-08-04T04:55:37.398Z'
 title: New Company T-Shirt Design
 publisher: {}
 description: Our New Modern Designs T-shirt has Finally been Printed
-hasPage: true
 starred: true
 url: our-new-modern-designs-t-shirt-has-finally-been-printed/index.html
 _context: 'http://schema.org'
