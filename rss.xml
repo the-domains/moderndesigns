@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ModernDesigns]]></title>
         <description><![CDATA[ModernDesigns]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/moderndesigns/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 04:05:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Aug 2016 04:08:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/moderndesigns/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e921081-33f0-4822-b534-0cddf15140f8.jpg" alt="Screen Printing Job">]]></description>
+            <link>https://thegrid.ai/moderndesigns/this-was-our-first-screen-printing-request-with-printing-tow/index.html</link>
+            <guid isPermaLink="false">cb51b0d4-c256-4c19-bd40-7e8a4a98d38d</guid>
+            <pubDate>Thu, 04 Aug 2016 04:08:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/40bf084c-7e19-4f14-81e5-d971a29eb596.jpg" alt="Silver Screen Printing Press From Ryonet">]]></description>
-            <link>undefinedwe-purchased-a-new-silver-screen-printing-press-in-2012-and/index.html</link>
+            <link>https://thegrid.ai/moderndesigns/we-purchased-a-new-silver-screen-printing-press-in-2012-and/index.html</link>
             <guid isPermaLink="false">ce5da8ef-5761-4765-8d8c-d4f9eefe9054</guid>
             <pubDate>Thu, 04 Aug 2016 04:05:44 GMT</pubDate>
         </item>
