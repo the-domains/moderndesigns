@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-04T05:03:52.043Z'
-author: []
-via: {}
-dateModified: '2016-08-04T05:03:48.230Z'
-title: ''
-publisher:
-  name: Ink Knife
-description: When our Knifes Were Brand New | Clean | Sharp | Ready to Print Shirts Up
-starred: false
+datePublished: '2016-08-04T06:31:51.257Z'
 sourcePath: >-
   _posts/2016-08-04-when-our-knifes-were-brand-new-or-clean-or-sharp-or-ready-to-pr.md
+author: []
+via: {}
+dateModified: '2016-08-04T06:31:50.537Z'
+title: Ink knife
+publisher:
+  name: ''
+description: When our Knifes Were Brand New | Clean | Sharp | Ready to Print Shirts Up
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
