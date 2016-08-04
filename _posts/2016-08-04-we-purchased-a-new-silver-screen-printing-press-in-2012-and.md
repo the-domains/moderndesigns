@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-08-04T04:05:44.733Z'
+datePublished: '2016-08-04T04:37:09.742Z'
+sourcePath: >-
+  _posts/2016-08-04-we-purchased-a-new-silver-screen-printing-press-in-2012-and.md
 author: []
 via: {}
-dateModified: '2016-08-04T04:05:39.803Z'
-title: ''
+dateModified: '2016-08-04T04:37:09.028Z'
+title: Silver Screen Printing Press
 publisher: {}
 description: >-
   We purchased a New Silver Screen-printing press in 2012 and it has paid off by
   far... Stay toon to what we are doing toward the innovating Manual Screen
   printing Technology.. Its Time that the Manual Screen printer got an update.
 starred: false
-sourcePath: >-
-  _posts/2016-08-04-we-purchased-a-new-silver-screen-printing-press-in-2012-and.md
 inFeed: true
 hasPage: true
 inNav: false
