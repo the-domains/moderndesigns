@@ -12,3 +12,7 @@ color:
     - '#FCFAE1'
     - '#BD8D46'
 name: ModernDesigns
+navigation:
+  - name: New Company T-Shirt Design
+    id: e03ac66e-c432-496f-99c9-29749844346e
+    type: content
