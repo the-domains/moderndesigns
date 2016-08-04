@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-08-04T04:08:08.883Z'
+datePublished: '2016-08-04T04:34:08.615Z'
+sourcePath: >-
+  _posts/2016-08-04-this-was-our-first-screen-printing-request-with-printing-tow.md
 author: []
 via: {}
-dateModified: '2016-08-04T04:08:02.881Z'
+dateModified: '2016-08-04T04:34:07.872Z'
 title: ''
 publisher: {}
 description: >-
   This was our first screen printing request with printing toward the bottom of
   the T-shirt.. It was a great Experience and Happy Customer.
 starred: false
-sourcePath: >-
-  _posts/2016-08-04-this-was-our-first-screen-printing-request-with-printing-tow.md
 inFeed: true
 hasPage: true
 inNav: false
