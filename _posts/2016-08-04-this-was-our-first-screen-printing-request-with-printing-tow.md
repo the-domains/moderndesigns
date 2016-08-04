@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-04T04:34:08.615Z'
+datePublished: '2016-08-04T04:34:49.521Z'
 sourcePath: >-
   _posts/2016-08-04-this-was-our-first-screen-printing-request-with-printing-tow.md
 author: []
 via: {}
-dateModified: '2016-08-04T04:34:07.872Z'
+dateModified: '2016-08-04T04:34:49.412Z'
 title: ''
 publisher: {}
 description: >-
