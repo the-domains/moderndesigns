@@ -4,8 +4,15 @@
         <description><![CDATA[ModernDesigns]]></description>
         <link>https://thegrid.ai/moderndesigns/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 04:37:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 04:38:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/moderndesigns/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Company T-Shirt Design]]></title>
+            <description><![CDATA[<article><h1>New Company T-Shirt Design</h1><p>Our New Modern Designs T-shirt has Finally been Printed</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e87fe051-75db-4668-a3a1-e916a7e47ab4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/moderndesigns/our-new-modern-designs-t-shirt-has-finally-been-printed/index.html</link>
+            <guid isPermaLink="false">e03ac66e-c432-496f-99c9-29749844346e</guid>
+            <pubDate>Thu, 04 Aug 2016 04:38:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Filemaker UI Design]]></title>
             <description><![CDATA[<article><h1>Filemaker UI Design</h1><p>Think | Design | Develop</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/35d14312-1e2b-4c9a-b8dd-4fd7e05564a2.jpg"></article>]]></description>
@@ -54,13 +61,6 @@
             <link>https://thegrid.ai/moderndesigns/if-you-are-never-innovating-then-you-are-never-changing-it/index.html</link>
             <guid isPermaLink="false">403d685c-da6e-46ee-9cae-8cb8cd6f60f4</guid>
             <pubDate>Thu, 04 Aug 2016 04:13:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e87fe051-75db-4668-a3a1-e916a7e47ab4.jpg">]]></description>
-            <link>https://thegrid.ai/moderndesigns/our-new-modern-designs-t-shirt-has-finally-been-printed/index.html</link>
-            <guid isPermaLink="false">e03ac66e-c432-496f-99c9-29749844346e</guid>
-            <pubDate>Thu, 04 Aug 2016 04:11:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
