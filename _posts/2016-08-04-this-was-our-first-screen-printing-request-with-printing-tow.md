@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-04T04:34:49.521Z'
+datePublished: '2016-08-04T04:35:09.303Z'
 sourcePath: >-
   _posts/2016-08-04-this-was-our-first-screen-printing-request-with-printing-tow.md
 author: []
 via: {}
-dateModified: '2016-08-04T04:34:49.412Z'
-title: ''
+dateModified: '2016-08-04T04:35:08.305Z'
+title: 'Screen Printing '
 publisher: {}
 description: >-
   This was our first screen printing request with printing toward the bottom of
