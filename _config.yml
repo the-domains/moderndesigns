@@ -1,8 +1,21 @@
-typography_spectrum: 0.8141408755909652
+title: Modern Designs
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4fa3bd8b-5e0c-4e6d-8f8f-e83a80277995.png
 color:
-  brandStrength: 0.8385643099900335
-  lightness: 0.4970482657663524
   saturation: 0.8582038911990821
+  brandStrength: 0.8385643099900335
   rhythmicContrast: 0.4840615934226662
   brandColors:
     - '#B9121B'
@@ -10,10 +23,9 @@ color:
     - '#F6E497'
     - '#FCFAE1'
     - '#BD8D46'
-layout_spectrum: 0.09511178499087691
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4fa3bd8b-5e0c-4e6d-8f8f-e83a80277995.png
-name: Modern Designs
+  lightness: 0.4970482657663524
+typography_spectrum: 0.4731183
+description: Let Us Design Your Dreams
 navigation:
   - name: Home
     url: moderndesigns.biz
@@ -21,5 +33,5 @@ navigation:
   - name: Semi-Automatic Innovation
     id: d7e34751-7dcb-468d-a2a8-53614fd9a086
     type: content
-title: Modern Designs
-description: Let Us Design Your Dreams
+layout_spectrum: 0.8673835
+name: Modern Designs
