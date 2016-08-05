@@ -13,11 +13,11 @@ color:
 layout_spectrum: 0.09511178499087691
 name: Modern Designs
 navigation:
-  - name: Semi-Automatic Innovation
-    id: d7e34751-7dcb-468d-a2a8-53614fd9a086
-    type: content
   - name: Home
     url: moderndesigns.biz
     type: external
+  - name: Semi-Automatic Innovation
+    id: d7e34751-7dcb-468d-a2a8-53614fd9a086
+    type: content
 title: Modern Designs
 description: Let Us Design Your Dreams
