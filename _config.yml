@@ -11,6 +11,8 @@ color:
     - '#FCFAE1'
     - '#BD8D46'
 layout_spectrum: 0.09511178499087691
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4fa3bd8b-5e0c-4e6d-8f8f-e83a80277995.png
 name: Modern Designs
 navigation:
   - name: Home
