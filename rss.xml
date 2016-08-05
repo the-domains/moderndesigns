@@ -4,7 +4,7 @@
         <description><![CDATA[Modern Designs]]></description>
         <link>http://moderndesigns.biz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 04:34:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2016 04:37:48 GMT</lastBuildDate>
         <atom:link href="http://moderndesigns.biz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Modern Designs | T-Shirt]]></title>
@@ -33,6 +33,13 @@
             <link>http://moderndesigns.biz/screen-printing-at-just-the-right-angle/index.html</link>
             <guid isPermaLink="false">c651db15-9a57-4674-b902-9362bbf64687</guid>
             <pubDate>Fri, 05 Aug 2016 03:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1bfccbc0-063c-4ec4-9647-6df32de58555.jpg">]]></description>
+            <link>http://moderndesigns.biz/967d467b-a61e-4e7f-8ba0-8b3bb9a04b4e/index.html</link>
+            <guid isPermaLink="false">967d467b-a61e-4e7f-8ba0-8b3bb9a04b4e</guid>
+            <pubDate>Fri, 05 Aug 2016 04:37:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Design | Build | Repeat]]></title>
@@ -68,13 +75,6 @@
             <link>http://moderndesigns.biz/f3e9bd51-d79c-4c25-89f5-c368370cb0e2/index.html</link>
             <guid isPermaLink="false">f3e9bd51-d79c-4c25-89f5-c368370cb0e2</guid>
             <pubDate>Fri, 05 Aug 2016 04:17:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Mind Behind Refresh]]></title>
-            <description><![CDATA[<article><h1>The Mind Behind Refresh</h1><p>We have taken the past fours of research and Development and built a great starter processor for our new Refresh Semi-Automatic Attachment</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/256e6038-9e8d-4383-9331-5c0515a3b123.jpg"></article>]]></description>
-            <link>http://moderndesigns.biz/af8acf72-beae-456e-9c29-32969438bbcd/index.html</link>
-            <guid isPermaLink="false">af8acf72-beae-456e-9c29-32969438bbcd</guid>
-            <pubDate>Fri, 05 Aug 2016 04:13:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
