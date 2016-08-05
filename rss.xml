@@ -4,7 +4,7 @@
         <description><![CDATA[Modern Designs]]></description>
         <link>http://moderndesigns.biz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 04:31:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2016 04:34:18 GMT</lastBuildDate>
         <atom:link href="http://moderndesigns.biz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Modern Designs | T-Shirt]]></title>
@@ -33,6 +33,13 @@
             <link>http://moderndesigns.biz/screen-printing-at-just-the-right-angle/index.html</link>
             <guid isPermaLink="false">c651db15-9a57-4674-b902-9362bbf64687</guid>
             <pubDate>Fri, 05 Aug 2016 03:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Design | Build | Repeat]]></title>
+            <description><![CDATA[<article><h1>Design | Build | Repeat</h1><p>We love showing off past website content we have published in the past. We Believe that what you showcase is supposed to be Changed constantly for the growing web!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ca27340e8dc28690271a754d52888ba6/croprotate.jpg?cropheight=519&cropwidth=640&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F0b9ceed6-866d-4fe8-b21f-0334868e856a.jpg&x=0&y=55"></article>]]></description>
+            <link>http://moderndesigns.biz/f1d2402e-5452-49b3-8d5a-649e6500f594/index.html</link>
+            <guid isPermaLink="false">f1d2402e-5452-49b3-8d5a-649e6500f594</guid>
+            <pubDate>Fri, 05 Aug 2016 04:34:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://moderndesigns.biz/af8acf72-beae-456e-9c29-32969438bbcd/index.html</link>
             <guid isPermaLink="false">af8acf72-beae-456e-9c29-32969438bbcd</guid>
             <pubDate>Fri, 05 Aug 2016 04:13:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sheet Metal Frame | Semi-Automatic]]></title>
-            <description><![CDATA[<article><h1>Sheet Metal Frame | Semi-Automatic</h1><p>For the past year we have been developing a prototype that will help manual screen printers. Print Faster & More Efficient </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/360aee82-f80d-407e-963c-7b10e962687b.jpg"></article>]]></description>
-            <link>http://moderndesigns.biz/808d96eb-cc12-4f84-8c19-e5e8f86c9b53/index.html</link>
-            <guid isPermaLink="false">808d96eb-cc12-4f84-8c19-e5e8f86c9b53</guid>
-            <pubDate>Fri, 05 Aug 2016 04:07:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
