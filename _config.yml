@@ -1,17 +1,20 @@
-typography_spectrum: 0.14574885345064104
+typography_spectrum: 0.8141408755909652
 color:
-  brandStrength: 0.3840017926413566
-  lightness: 0.3098274595104158
-  saturation: 0.06023264559917152
-  rhythmicContrast: 0.9679621558170766
+  brandStrength: 0.8385643099900335
+  lightness: 0.4970482657663524
+  saturation: 0.8582038911990821
+  rhythmicContrast: 0.4840615934226662
   brandColors:
-    - '#85DB18'
-    - '#CDE855'
-    - '#F5F6D4'
-    - '#A7C520'
-    - '#493F0B'
-layout_spectrum: 0.6509153780061752
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
+layout_spectrum: 0.09511178499087691
 name: Modern Designs
-navigation: []
+navigation:
+  - name: Semi-Automatic Innovation
+    id: d7e34751-7dcb-468d-a2a8-53614fd9a086
+    type: content
 title: Modern Designs
 description: Let Us Design Your Dreams
