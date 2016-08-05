@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-05T03:11:31.000Z'
+datePublished: '2016-08-05T03:28:20.866Z'
 sourcePath: _posts/2016-08-04-commercial-art-class.md
 author: []
 via: {}
-dateModified: '2016-08-05T03:11:18.610Z'
+dateModified: '2016-08-05T03:28:20.473Z'
 title: 'Commercial Art Class '
 publisher: {}
 description: >-
@@ -12,7 +12,7 @@ description: >-
   needed to brainstorm solutions for businesses, and later apply these skills
   toward Screen-printing, Website User Interface & Development, Full Car Wraps,
   and Custom Logo Designs.
-starred: false
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
