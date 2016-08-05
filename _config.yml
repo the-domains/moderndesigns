@@ -1,16 +1,16 @@
-typography_spectrum: 0.8141408755909652
+typography_spectrum: 0.14574885345064104
 color:
-  brandStrength: 0.8385643099900335
-  lightness: 0.4970482657663524
-  saturation: 0.8582038911990821
-  rhythmicContrast: 0.4840615934226662
+  brandStrength: 0.3840017926413566
+  lightness: 0.3098274595104158
+  saturation: 0.06023264559917152
+  rhythmicContrast: 0.9679621558170766
   brandColors:
-    - '#B9121B'
-    - '#4C1B1B'
-    - '#F6E497'
-    - '#FCFAE1'
-    - '#BD8D46'
-layout_spectrum: 0.09511178499087691
+    - '#85DB18'
+    - '#CDE855'
+    - '#F5F6D4'
+    - '#A7C520'
+    - '#493F0B'
+layout_spectrum: 0.6509153780061752
 name: Modern Designs
 navigation: []
 title: Modern Designs
