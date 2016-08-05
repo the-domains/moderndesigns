@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-05T02:51:47.775Z'
+datePublished: '2016-08-05T03:26:34.127Z'
 sourcePath: _posts/2016-08-04-screen-printing-at-just-the-right-angle.md
 author: []
 via: {}
-dateModified: '2016-08-05T02:38:40.738Z'
+dateModified: '2016-08-05T03:26:32.386Z'
 title: Screen-Printing at Just The Right Angle
 publisher: {}
 description: Most Screen-Printers Pull - But the Smarter Ones Push!
-starred: false
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
