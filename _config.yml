@@ -16,5 +16,8 @@ navigation:
   - name: Semi-Automatic Innovation
     id: d7e34751-7dcb-468d-a2a8-53614fd9a086
     type: content
+  - name: Home
+    url: moderndesigns.biz
+    type: external
 title: Modern Designs
 description: Let Us Design Your Dreams
