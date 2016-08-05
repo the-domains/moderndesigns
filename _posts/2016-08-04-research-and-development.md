@@ -1,19 +1,17 @@
 ---
-datePublished: '2016-08-04T05:18:06.184Z'
+datePublished: '2016-08-05T03:20:05.338Z'
 author: []
 via: {}
-dateModified: '2016-08-04T05:18:00.454Z'
+dateModified: '2016-08-05T03:20:04.858Z'
 title: Research and Development
 publisher: {}
 description: >-
   Not to long ago we needed to design, build and test a custom solution to our
   problem of everyday manual screen printers. This shows the progress we made
   with our custom pneumatic Holder. 
-starred: false
 sourcePath: _posts/2016-08-04-research-and-development.md
-inFeed: true
 hasPage: true
-inNav: false
+starred: false
 url: research-and-development/index.html
 _context: 'http://schema.org'
 _type: Article
