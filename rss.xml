@@ -4,7 +4,7 @@
         <description><![CDATA[Modern Designs]]></description>
         <link>http://moderndesigns.biz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 06:35:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2016 21:47:19 GMT</lastBuildDate>
         <atom:link href="http://moderndesigns.biz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Innovation For Manual Screen Printers]]></title>
@@ -33,6 +33,13 @@
             <link>http://moderndesigns.biz/screen-printing-at-just-the-right-angle/index.html</link>
             <guid isPermaLink="false">c651db15-9a57-4674-b902-9362bbf64687</guid>
             <pubDate>Fri, 05 Aug 2016 03:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Mind Behind Refresh]]></title>
+            <description><![CDATA[<p>We have taken the past fours of research and Development and built a great starter processor for our new Refresh Semi-Automatic Attachment</p>]]></description>
+            <link>http://moderndesigns.biz/the-mind-behind-refresh/index.html</link>
+            <guid isPermaLink="false">af8acf72-beae-456e-9c29-32969438bbcd</guid>
+            <pubDate>Sun, 07 Aug 2016 21:46:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Computer Programming]]></title>
@@ -68,13 +75,6 @@
             <link>http://moderndesigns.biz/d2b77397-2074-40c8-8d7c-c570da6ef285/index.html</link>
             <guid isPermaLink="false">d2b77397-2074-40c8-8d7c-c570da6ef285</guid>
             <pubDate>Fri, 05 Aug 2016 04:31:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Empty Bowls | Sponsor T-Shirt]]></title>
-            <description><![CDATA[<article><h1>Empty Bowls | Sponsor T-Shirt</h1><p>For the past Two years we have been apart of a great Commercial art class that comes together with the Ceramics Art Students to design, Build, and Raise Awareness of all the Empty Bowls in America. We show case an event were the public is invited to purchase a custom hand crafted bowl, T-shirt, & a meal of Soup and Bread. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9e5378e-2e61-4c1a-91d9-5650b549aef1.jpg"></article>]]></description>
-            <link>http://moderndesigns.biz/69d5fb89-8960-439f-9410-f56e68b9dad6/index.html</link>
-            <guid isPermaLink="false">69d5fb89-8960-439f-9410-f56e68b9dad6</guid>
-            <pubDate>Fri, 05 Aug 2016 04:29:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
