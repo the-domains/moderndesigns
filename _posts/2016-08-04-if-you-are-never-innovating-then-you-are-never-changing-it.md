@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-08-05T06:00:53.516Z'
+datePublished: '2016-08-07T21:49:56.298Z'
 sourcePath: >-
   _posts/2016-08-04-if-you-are-never-innovating-then-you-are-never-changing-it.md
 author: []
 via: {}
-dateModified: '2016-08-05T06:00:12.066Z'
+dateModified: '2016-08-07T21:49:55.632Z'
 title: Innovation For Manual Screen Printers
 publisher: {}
 description: >-
   If you are never innovating, then you are never changing. It’s Time that
   Manual Screen printers get an Update. Help Join the Movement!!!
-starred: true
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
