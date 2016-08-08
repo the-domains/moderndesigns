@@ -24,7 +24,7 @@ color:
     - '#3498DB'
     - '#2980B9'
   rhythmicContrast: 0.7338414834812284
-typography_spectrum: 0.38363518146798015
+typography_spectrum: 0.764173176838085
 description: Let Us Design Your Dreams
 navigation:
   - name: Home
@@ -33,5 +33,5 @@ navigation:
   - name: Semi-Automatic Innovation
     id: d7e34751-7dcb-468d-a2a8-53614fd9a086
     type: content
-layout_spectrum: 0.7591496310196817
+layout_spectrum: 0.7154683151748031
 name: Modern Designs
