@@ -14,17 +14,17 @@ collections:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4fa3bd8b-5e0c-4e6d-8f8f-e83a80277995.png
 color:
-  saturation: 0.4841538411565125
-  brandStrength: 0.7155524517875165
-  lightness: 0.43911836785264313
+  saturation: 0.2507960016373545
+  brandStrength: 0.6686864059884101
+  lightness: 0.6206391414161772
   brandColors:
-    - '#304269'
-    - '#91BED4'
-    - '#D9E8F5'
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
     - '#FFFFFF'
-    - '#F26101'
-  rhythmicContrast: 0.2753189648501575
-typography_spectrum: 0.548785010818392
+  rhythmicContrast: 0.9767790113110095
+typography_spectrum: 0.7765198422130197
 description: Let Us Design Your Dreams
 navigation:
   - name: Home
@@ -33,5 +33,5 @@ navigation:
   - name: Semi-Automatic Innovation
     id: d7e34751-7dcb-468d-a2a8-53614fd9a086
     type: content
-layout_spectrum: 0.6172315757721663
+layout_spectrum: 0.062320545548573136
 name: Modern Designs
