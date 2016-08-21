@@ -1,4 +1,26 @@
-title: Modern Designs
+typography_spectrum: 0.7765198422130197
+color:
+  saturation: 0.2507960016373545
+  brandStrength: 0.6686864059884101
+  lightness: 0.6206391414161772
+  brandColors:
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+  rhythmicContrast: 0.9767790113110095
+layout_spectrum: 0.062320545548573136
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4fa3bd8b-5e0c-4e6d-8f8f-e83a80277995.png
+name: Modern Designs
+navigation:
+  - name: Home
+    url: moderndesigns.biz
+    type: external
+  - name: Semi-Automatic Innovation
+    id: d7e34751-7dcb-468d-a2a8-53614fd9a086
+    type: content
 collections:
   - index:
       path: /
@@ -11,27 +33,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4fa3bd8b-5e0c-4e6d-8f8f-e83a80277995.png
-color:
-  saturation: 0.2507960016373545
-  brandStrength: 0.6686864059884101
-  lightness: 0.6206391414161772
-  brandColors:
-    - '#000000'
-    - '#404040'
-    - '#808080'
-    - '#BFBFBF'
-    - '#FFFFFF'
-  rhythmicContrast: 0.9767790113110095
-typography_spectrum: 0.7765198422130197
+title: Modern Designs
 description: Let Us Design Your Dreams
-navigation:
-  - name: Home
-    url: moderndesigns.biz
-    type: external
-  - name: Semi-Automatic Innovation
-    id: d7e34751-7dcb-468d-a2a8-53614fd9a086
-    type: content
-layout_spectrum: 0.062320545548573136
-name: Modern Designs
